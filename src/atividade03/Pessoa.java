@@ -1,4 +1,4 @@
-package empresa;
+package atividade03;
 
 public abstract class Pessoa {
 	private String nome;
