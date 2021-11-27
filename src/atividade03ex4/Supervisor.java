@@ -1,4 +1,4 @@
-package atividade03;
+package atividade03ex4;
 
 public class Supervisor extends Empregado{
 	

@@ -1,4 +1,4 @@
-package atividade03;
+package atividade03ex6;
 
 public abstract class Pessoa {
 	private String nome;

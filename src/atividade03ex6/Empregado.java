@@ -1,4 +1,5 @@
-package atividade03;
+package atividade03ex6;
+
 
 public abstract class Empregado extends Pessoa {
 	private String departamento;
